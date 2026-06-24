@@ -6,7 +6,7 @@ subtitle: Professor, <a href='https://dbis.nankai.edu.cn/'>DBIS</a>, <a href='ht
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yingzhang-prof_pic.png # prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>College of Computer Science, Nankai University</p>
