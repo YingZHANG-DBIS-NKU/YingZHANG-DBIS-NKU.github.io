@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yingzhang.github.io/sitemap.xml
+Sitemap: https://yingzhang-dbis-nku.github.io/sitemap.xml
